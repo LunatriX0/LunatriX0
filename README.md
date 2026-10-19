@@ -1,89 +1,116 @@
-# 👋 Hi, I’m Hamida  
-*Turning ideas into elegant digital experiences.*
+
+# Hi, I'm Hamida Rahimi 👋
+
+### Computer Science Student | Software Developer
+
+I'm a Computer Science student at the American University of Afghanistan, passionate about building practical software solutions and creating clean, user-friendly digital experiences.
+
+Through my development projects and internship experience, I'm building my skills in frontend development, API integration, backend systems, and database-driven applications. I value readable code, continuous learning, and solving problems through technology.
+
+- 💻 **Current Focus:** Web application development and financial management systems
+- ⚛️ **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- 🐍 **Programming:** Python and problem-solving
+- 🗄️ **Backend & Data:** REST APIs, SQL, PostgreSQL, Swagger
+- 🛠️ **Tools:** Git, GitHub, VS Code, Vite
+- 🎯 **Interests:** Software engineering and data science
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts" alt="Python, HTML, CSS, JavaScript, TypeScript" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React, Tailwind CSS, Vite" />
+</p>
+
+### Databases and Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" alt="PostgreSQL, Git, GitHub, VS Code" />
+</p>
+
+**Additional Technologies:** REST API integration, Swagger, SQL, responsive web design, and frontend-backend integration.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Financial Management System
+**Technologies:** React · TypeScript · REST APIs
+
+Working on financial management features as part of my software development internship.
+
+- Developing reusable frontend components and organized page structures.
+- Connecting application interfaces to backend APIs.
+- Implementing data entry, display, and management workflows.
+- Improving code readability and maintainability.
+
+### 2. WebFOCUS Reporting Dashboard
+**Technologies:** WebFOCUS · React · Axios · JSON
+
+A reporting and dashboard project focused on presenting business data through an interactive interface.
+
+- Working with WebFOCUS reports and JSON API responses.
+- Connecting reporting data to a React frontend.
+- Implementing filters to explore report results.
+
+### 3. Web Development Projects
+**Technologies:** HTML · CSS · JavaScript · React
+
+Building and improving web applications while practicing modern frontend development.
+
+- Creating responsive user interfaces.
+- Learning component-based architecture.
+- Practicing API integration and Git-based version control.
+
+*Explore my repositories for available source code and project details.*
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F58FF&width=435&lines=Web+Developer;Trainer;Trading+Enthusiast" alt="Typing SVG" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LunatriX0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Profile Statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=LunatriX0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunatriX0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
 </p>
 
 ---
 
-## 💻 Skills
+## 🎓 Beyond Technology
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5"/><br/><b>HTML5</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3"/><br/><b>CSS3</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/><br/><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/><br/><b>React (learning)</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="36" alt="GitHub"/><br/><b>GitHub</b></td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/4a90e2/responsive.png" width="36" alt="Responsive"/><br/><b>Responsive Design</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/teacher.png" width="36" alt="Teaching"/><br/><b>Teaching English</b></td>
-  </tr>
-</table>
+Alongside my Computer Science studies, I have experience teaching English and computer skills. These experiences have helped me develop communication, collaboration, and problem-solving skills.
+
+I enjoy learning new technologies, sharing knowledge with beginners, and using technology to build solutions that make a meaningful difference.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lunatrix&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LunatriX0&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidaRahimi&layout=compact&theme=tokyonight&langs_count=6&custom_title=Most%20Used%20Languages)
-
----
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-hamidarahimi154@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hamidarahimi154@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HamidaRahimi-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hamidarahimi](https://www.linkedin.com/in/hamida-rahimi-b41926293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamidarahimi.com-ff69b4?style=flat-square&logo=google-chrome&logoColor=white)](https://hamidarahimi.com)
+<p>
+  <a href="https://www.linkedin.com/in/hamida-r-b41926293">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hamidarahimi154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/LunatriX0">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🎉 Fun Facts & Quote
-
-- ☕ I can design a website while sipping chai.
-- 🌍 I speak Dari, English, and basic Pashto.
-- 📝 I love creating educational content for beginners.
-
-**Favorite Quote:**  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 🏆 Badges planned to achieve 😎
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
-
-
----
-
-⭐ *Always learning, always building!*
-
-<!--
-**LunatriX0/LunatriX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Learning continuously. Building thoughtfully. Improving every day.</i>
+</p>
